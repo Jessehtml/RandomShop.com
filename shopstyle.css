@@ -1,0 +1,25 @@
+.header {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    height: 169px;
+}
+.Sampleproductpic {
+    width: 300px;
+    height: 400px;
+    transition: all 0.3s ease;
+}
+.Sampleproductpic:hover {
+    width: 350px;
+    height: 450px;
+}
+.Sampleproductpic2 {
+    width: 300px;
+    height: 400px;
+    transition: all 0.3s ease;
+}
+.Sampleproductpic2:hover {
+    width: 350px;
+    height: 450px;
+}
