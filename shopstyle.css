@@ -4,7 +4,13 @@
     padding: 10px;
     text-align: center;
     height: 169px;
+    margin-left: 0px;
 }
+.directs {
+    text-align: left;
+}
+
+
 .Sampleproductpic {
     width: 300px;
     height: auto;
@@ -62,4 +68,14 @@
 .view-reviews:hover {
     width: 200px;
     height: 50px;
+}
+
+.weatherbutton {
+    background-color: #B8E2B0;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin-top: 20px;
 }
